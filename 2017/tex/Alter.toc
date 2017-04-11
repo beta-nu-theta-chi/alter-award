@@ -1,0 +1,15 @@
+\contentsline {chapter}{Introduction Letter}{i}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Scholarship Programming}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Recruitment Programming}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}New Member and Member Education}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}Community Service and Philanthropy Programming}{8}{chapter.4}
+\contentsline {chapter}{\numberline {5}Sacred Purpose}{11}{chapter.5}
+\contentsline {chapter}{\numberline {6}Alumni Programming}{13}{chapter.6}
+\contentsline {chapter}{\numberline {7}Chapter Finances}{15}{chapter.7}
+\contentsline {chapter}{\numberline {8}The Ritual}{17}{chapter.8}
+\contentsline {chapter}{\numberline {9}Chapter Operations}{19}{chapter.9}
+\contentsline {chapter}{\numberline {10}Internal Cooperation}{24}{chapter.10}
+\contentsline {chapter}{\numberline {11}Campus Involvement}{25}{chapter.11}
+\contentsline {chapter}{\numberline {12}Risk Management Practices}{28}{chapter.12}
+\contentsline {chapter}{\numberline {13}Social Programming}{29}{chapter.13}
+\contentsline {chapter}{\numberline {14}Resolute Man}{31}{chapter.14}
